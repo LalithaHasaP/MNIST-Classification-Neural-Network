@@ -1,0 +1,6 @@
+Dataset: MNIST
+Model: MLP (784 → 512 → 10)
+Epochs: 15
+Batch size: 32
+Learning rate: 0.05
+Test Accuracy: 0.9753
