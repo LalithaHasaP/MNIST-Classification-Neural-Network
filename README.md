@@ -54,6 +54,7 @@ During training, accuracy is periodically evaluated on a subset of the training 
 
 ## Results
 - **Test Accuracy:** ~97% (may vary slightly due to random initialization)
+- Check results directory for more information
 
 ---
 
@@ -62,4 +63,4 @@ During training, accuracy is periodically evaluated on a subset of the training 
 1. Install dependencies
 pip install -r requirements.txt
 
-2. Run training.py
+2. Run train.py
