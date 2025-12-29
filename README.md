@@ -55,12 +55,11 @@ During training, accuracy is periodically evaluated on a subset of the training 
 ## Results
 - **Test Accuracy:** ~97% (may vary slightly due to random initialization)
 
-Exact metrics and logs can be found in the `results/` directory.
-
 ---
 
 ## How to Run
 
-### 1. Install dependencies
-```bash
+1. Install dependencies
 pip install -r requirements.txt
+
+2. Run training.py
